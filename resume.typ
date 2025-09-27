@@ -37,8 +37,6 @@
   font: (
     // (name: "CMU serif", covers: "latin-in-cjk"),
     (name: "Libertinus Serif"),
-    // "AR PL KaitiM Big5"
-    "Noto Serif TC",
   ),
   size: 11pt,
   cjk-latin-spacing: auto,
