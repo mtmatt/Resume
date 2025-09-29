@@ -15,7 +15,6 @@
 #let email = "b12902033@csie.ntu.edu.tw"
 // #let email = "mtmattqq@gmail.com"
 
-
 #set page(
   paper: "us-letter",
   // paper: "a4",
@@ -37,6 +36,7 @@
   font: (
     // (name: "CMU serif", covers: "latin-in-cjk"),
     (name: "Libertinus Serif"),
+    // (name: "New Computer Modern"),
   ),
   size: 11pt,
   cjk-latin-spacing: auto,
