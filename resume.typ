@@ -12,8 +12,8 @@
 // #show: show-theorion
 
 #let author = "ShangJhe Li"
-#let email = "b12902033@csie.ntu.edu.tw"
-// #let email = "mtmattqq@gmail.com"
+// #let email = "b12902033@csie.ntu.edu.tw"
+#let email = "mtmattqq@gmail.com"
 
 #set page(
   paper: "us-letter",
