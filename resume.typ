@@ -121,6 +121,7 @@
   period: "July 2025 - Present",
   details: (
     "Read and analyze 10+ papers about system security, reliability, and fault tolerance.",
+    "Currently working on novel exception handling for rust driver in the Linux kernel."
   ),
 )
 
@@ -135,16 +136,26 @@
   ),
 )
 
+#experience-item(
+  title: "Teaching Assistant (Introduction to Computer Programming)",
+  location: "Taipei, Taiwan",
+  company: "NTU CSIE",
+  period: "September 2025 - December 2025",
+  details: (
+    "Prepare three exams as well as three mock exams.",
+  ),
+)
+
 
 #section("Projects")
 
 #project-item(
   title: "Owo Judge (Backend Developer)",
-  link-url: "https://github.com/mtmatt/OwoJudge",
+  link-url: "https://github.com/OwoJudge-Team/OwoJudge",
   details: (
-    "Developed a containerized, multi-language backend for a competitive programming platform, featuring a decoupled architecture and MongoDB.",
+    "Developed a containerized, multi-language backend for a competitive programming platform, featuring a decoupled architecture and MongoDB. The user can submit their code via git.",
     "Tools Used: TypeScript, Node.js, MongoDB, ioi/isolate, Docker",
-    "Weakness: This is an ongoing project."
+    "Weakness: Currently, the system is only for DSA course. Some advanced features were not implemented."
   )
 )
 
