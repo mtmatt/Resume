@@ -106,9 +106,9 @@
 
 #education-item(
   school: "National Taiwan University",
-  degree: "BS in Computer Science and Information Engineering (Junior)",
+  degree: "BS in Computer Science and Information Engineering (Senior)",
   period: "Sep 2023 - Present",
-  details: ("GPA: 4.05/4.3", "Coursework: System Programming, Computer Security, Machine Learning"),
+  details: ("GPA: 3.98/4.3", "Coursework: System Programming, Computer Security, Machine Learning"),
 )
 
 
@@ -129,7 +129,7 @@
   title: "Teaching Assistant (Data Structures and Algorithms)",
   location: "Taipei, Taiwan",
   company: "NTU CSIE",
-  period: "March 2025 - June 2025",
+  period: "March 2025 - June 2025, March 2026 - June 2026",
   details: (
     "Prepare the last programming problem for Homework 2. (Simulate bicycle parking slots as a tree)",
     "Help students with their programming assignments.",
@@ -150,7 +150,7 @@
 #section("Projects")
 
 #project-item(
-  title: "Owo Judge (Backend Developer)",
+  title: "OwoJudge (Backend Developer)",
   link-url: "https://github.com/OwoJudge-Team/OwoJudge",
   details: (
     "Developed a containerized, multi-language backend for a competitive programming platform, featuring a decoupled architecture and MongoDB. The user can submit their code via git.",
@@ -173,9 +173,9 @@
   title: "PseudoCode Interpreter",
   link-url: "https://github.com/mtmatt/PseudoCodeInterpreter",
   details: (
-    "Implemented a pseudo-code interpreter with a recursive abstract syntax tree (AST) and polymorphism.",
+    "Implemented a pseudo-code interpreter with a recursive abstract syntax tree (AST) and JIT.",
     "Tools Used: C++, Object-Oriented Programming, Data Structures.",
-    "Weakness: The use of string instead of enum for the type field causes the performance issue."
+    "Weakness: It is specialized to DSA course, not a general programming language."
   )
 )
 
